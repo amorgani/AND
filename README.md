@@ -1,6 +1,6 @@
 # AND - Author Name Disambiguation
 
-There are two corpus files: 1)1500_pairs_train.csv and 2)400_pairs_test.csv
+These are the files that make up the AND corpus: (1) 1500_pairs_train.csv and (2) 400_pairs_test.csv
 
 These files contain randomly selected pairs of MEDLINE publications sharing an author with the same last name and first initial.
 
