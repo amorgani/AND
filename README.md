@@ -13,7 +13,7 @@ First_name1/2 - Author first names
 Authorship - YES means that the authors are the same person and NO otherwise.
 
 
-You should cite this publication for this work:
+You should cite this data with the following publication:
 
 Dina Vishnyakova, Raul Rodriguez-Esteban, Fabio Rinaldi, A new approach and gold standard toward author disambiguation in MEDLINE, Journal of the American Medical Informatics Association, , ocz028, https://doi.org/10.1093/jamia/ocz028
 
