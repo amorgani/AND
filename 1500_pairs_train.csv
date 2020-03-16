@@ -1,4 +1,4 @@
-PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Authorship
+PMID1;Last_name1;Initials1;First_name1;PMID2;Last_name2;Initials2;First_name2;Authorship
 3270068;Subjak;J;J;5479762;Subjak;J;J;NO
 17200656;Stenkamp;DL;Deborah L;21742053;Stenkamp;DL;Deborah L;YES
 12190408;Lisak;M;M;23564547;Lisak;M;M;NO
@@ -504,17 +504,17 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 12099854;Sun;CM;Chung-Ming;24646395;Sun;CM;Chung-Ming;YES
 18780165;Nikbin;B;Behrouz;24659118;Nikbin;B;Behrouz;YES
 17223506;Ljungberg;C;C;27576147;Ljungberg;C;Christine;NO
-25582491;Zhang;Q;Qunlin;27896623;Zhang;Q;Qi; NO
-13213944;DULL;V;V;13448751;DULL;V;V; YES
-17539009;Erim;Y;Yesim;22701688;Erim;Y;Yesim; YES
-26474743;Gao;SG;Shu-guang;22076055;Gao;SG;Shu-Guang; YES
-2721834;Gerring;G;G;10119474;Gerring;G;G; YES
-9306941;Pinto;AE;A E;25920680;Pinto;AE;António E; YES
-6303106;Pope;EK;E K;6092552;Pope;EK;E K; YES
-6142778;Scanlon;MF;M F;19210414;Scanlon;MF;M F; YES
-24108336;Segura-Medina;P;Patricia;23848294;Segura-Medina;P;Patricia; YES
-25828344;Kim;WH;Woong Han;22717061;Kim;WH;W H; YES
-24162707;Song;HJ;Hyun Jung;22717061;Song;HJ;H J; YES
+25582491;Zhang;Q;Qunlin;27896623;Zhang;Q;Qi;NO
+13213944;DULL;V;V;13448751;DULL;V;V;YES
+17539009;Erim;Y;Yesim;22701688;Erim;Y;Yesim;YES
+26474743;Gao;SG;Shu-guang;22076055;Gao;SG;Shu-Guang;YES
+2721834;Gerring;G;G;10119474;Gerring;G;G;YES
+9306941;Pinto;AE;A E;25920680;Pinto;AE;António E;YES
+6303106;Pope;EK;E K;6092552;Pope;EK;E K;YES
+6142778;Scanlon;MF;M F;19210414;Scanlon;MF;M F;YES
+24108336;Segura-Medina;P;Patricia;23848294;Segura-Medina;P;Patricia;YES
+25828344;Kim;WH;Woong Han;22717061;Kim;WH;W H;YES
+24162707;Song;HJ;Hyun Jung;22717061;Song;HJ;H J;YES
 14245760;CRABBE;P;P;18598274;Crabbe;P;Patricia;NO
 7696628;Cui;X;X;22064364;Cui;X;Xuemei;NO
 6948449;Daniel;P;P;23875295;Daniel;P;Portetelle;NO
@@ -606,8 +606,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 25828344;Kim;WH;Woong Han;22717061;Kim;WH;W H;NO
 24162707;Song;HJ;Hyun Jung;22717061;Song;HJ;H J;NO
 9073136;Kobayashi;A;A;21748610;Kobayashi;A;Akihiro;NO
-24247299;Kobayashi;T;Takako;25904819;Kobayashi;T;T;
-16280221;Li;S;Shengbin;25904819;Li;S;S;
 1072761;Kohata;A;A;7594953;Kohata;A;A;NO
 13365722;KOIZUMI;S;S;22075966;Koizumi;S;Shunzo;NO
 27447472;Kolkman;A;A;23812883;Kolkman;A;Ard;NO
@@ -633,8 +631,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 15055176;Li;HJ;Hai-jun;25908926;Li;HJ;Hai-Jun;NO
 27148424;Li;J;Jie;26364057;Li;J;J;NO
 11712750;Li;L;L;27880925;Li;L;Lelin;NO
-24247299;Kobayashi;T;Takako;25904819;Kobayashi;T;T;
-16280221;Li;S;Shengbin;25904819;Li;S;S;
 26059103;Li;W;Wen;27159893;Li;W;Wen;NO
 23472128;Li;Z;Zheng;21763485;Li;Z;Zheng;NO
 7255796;López Fernández;P;P;21837414;López Fernández;P;P;NO
@@ -667,7 +663,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 225310;Mori;T;T;27877272;Mori;T;Takehiko;NO
 10812769;Mosca;F;F;23870751;Mosca;F;Fabio;NO
 3239267;Müller;W;W;23860111;Müller;W;Wolfgang;NO
-17350365;Mullany;CJ;Charles J;27770180;Mullany;CJ;C J;
 9024300;Mura;D;D;26846118;Mura;D;Donatella;NO
 27721525;Murray;H;Hayley;27431259;Murray;H;H;NO
 1405091;Nakahara;K;K;25186085;Nakahara;K;Kozue;NO
@@ -784,7 +779,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 17451717;Zhan;J;J;27879726;Zhan;J;Jinyan;NO
 18601233;Zhao;M;Meng;27874949;Zhao;M;M;NO
 23864528;Zhao;Y;Yan;25909340;Zhao;Y;Yan;NO
-21770629;Zhong;J;J;;;;;
 23321193;Zhou;F;F;25172671;Zhou;F;F;NO
 12681069;Zhou;Z;Zhi;25181693;Zhou;Z;Zhi;NO
 16169741;Zhu;Z;Zhihong;26344058;Zhu;Z;Z;NO
@@ -1284,7 +1278,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 19755254;Hansalia;RJ;Riple J;19124926;Hansalia;RJ;Riple J;YES
 25078345;Ihedioha;JN;Janefrances N;23664087;Ihedioha;JN;J N;YES
 26931916;Chikhachev;AS;A S;22380304;Chikhachev;AS;A S;YES
-15574008;Li;S;Shunpeng;25904819;Li;S;S;
 8855190;Roelsgaard;K;K;22401315;Roelsgaard;K;Klaus;YES
 6787786;Lupa?cu;F;F;26876993;Lupascu;F;Florentina;NO
 18083530;Ouyang;W;Wenjun;27143303;Ouyang;W;W;YES
@@ -1369,7 +1362,7 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 22001347;Arioli;I;Ivano;26700622;Arioli;I;Ivano;YES
 24555631;Arrivé;L;Lionel;23273497;Arrivé;L;Lionel;YES
 16956634;Ashurmetov;O;Ozodbek;18404331;Ashurmetov;O;Ozodbek;YES
-27159833;Atkin;OK;Owen K;23278298;Atkin;OK;Owen K; YES
+27159833;Atkin;OK;Owen K;23278298;Atkin;OK;Owen K;YES
 15581376;Ausió;J;Juan;25914933;Ausio;J;Juan;YES
 25122294;Azéma;E;Emilien;27841540;Azéma;E;Emilien;YES
 25568186;Baatartsogt;T;Tugsbaatar;23053526;Baatartsogt;T;Tugsbaatar;YES
@@ -1394,7 +1387,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 24523116;Bhoopathy;S;Sid;27706385;Bhoopathy;S;Sid;YES
 10233671;Blesken;T;T;9720818;Blesken;T;T;YES
 21099438;Blyakher;A;Arkady;21886542;Blyakher;A;Arkady;YES
-26770067;Bocci;A;A;;;;;
 9467692;Bocconi;L;L;9708446;Bocconi;L;L;YES
 25465008;Bockx;M;Marc;25488930;Bockx;M;Marc;YES
 4890788;Bocskor;A;A;5523457;Bocskor;A;A;YES
@@ -1465,7 +1457,6 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 20939954;De Sol;A;A;23866674;De Sol;A;Angelo;YES
 15869654;Desotgiu;R;Rosanna;22848090;Desotgiu;R;Rosanna;YES
 25465142;Dhong;HJ;Hun-Jong;27456589;Dhong;HJ;Hun-Jong;YES
-25838796;Diaz;MA;M A;;;;;
 27202150;DI Dato;E;E;23075891;Di Dato;E;Eugenio;YES
 13438876;DIEN;LT;L T;13224670;DIEN;LT;L T;YES
 15804452;Diong;SM;Siew Maan;22021436;Diong;SM;S M;YES
@@ -1488,11 +1479,10 @@ PMID1;Last_name1;Initials1;First_name1;PMID1;Last_name2;Initials2;First_name2;Au
 9957520;Fajfer;S;null;10013101;Fajfer;S;null;YES
 27106670;Guo;H;Heming;24647639;Guo;H;Hu;NO
 22552959;Huang;Z;Zufang;27881002;Huang;Z;Z;NO
-26190936;King;RS;R S B;21770629;King;RS;R S B;
-12909571;Niculescu;F;Florin;26091721;Niculescu;F;Florin; YES
-15843380;Philipova;R;Rada;19665013;Philipova;R;R; YES
+12909571;Niculescu;F;Florin;26091721;Niculescu;F;Florin;YES
+15843380;Philipova;R;Rada;19665013;Philipova;R;R;YES
 20416076;Su;ZJ;Zhi-Jian;24642565;Su;Z;Zhijian;NO
-12424613;Tchaikovski;V;V;25920030;Tchaikovski;V;V; YES
+12424613;Tchaikovski;V;V;25920030;Tchaikovski;V;V;YES
 26487539;Wei;Y;Yifang;27889204;Wei;Y;Y;NO
 26261514;Xu;B;Biao;23863678;Xu;B;Bo;NO
 24288453;Yang;G;Guangxiao;27876503;Yang;G;Ge;NO
